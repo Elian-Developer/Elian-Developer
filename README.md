@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️I'm currently working on my own projects ⚒<br>🔭I'm looking to collaborate with others dev 👨🏽‍💻<br>📋I'm currently learning web development 💻<br>🧳I'm looking for team working ⭐<br>💭Ask me about Web Development 💻
+✅I'm currently working on my own projects ⚒<br>✅I'm looking to collaborate with others dev 👨🏽‍💻<br>✅I'm currently learning web development 💻<br>✅I'm looking for team working ⭐<br>✅Ask me about Web Development 💻
 
 
 # 💻 Tech Stack:
@@ -8,12 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Elian-Developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Elian-Developer&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elian-Developer&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Elian-Developer&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Elian-Developer&limit=5&theme=radical&combine_all_yearly_contributions=true)
